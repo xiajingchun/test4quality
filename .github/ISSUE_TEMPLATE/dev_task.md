@@ -2,7 +2,7 @@
 name: Dev Task
 about: Create a dev task, no QA involved.
 title: ''
-type: enhancement
+type: Task
 assignees: ''
 ---
 
