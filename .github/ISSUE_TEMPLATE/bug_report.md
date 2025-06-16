@@ -3,6 +3,7 @@ name: Bug Report
 about: I want to report a bug.
 title: ''
 type: Bug
+label: bug,dag
 assignees: ''
 
 ---
