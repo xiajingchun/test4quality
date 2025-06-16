@@ -3,7 +3,7 @@ name: Dev Task
 about: Create a dev task, no QA involved.
 title: ''
 type: Task
-label: devops, ci-failure
+label: ["bug", "dag"]
 assignees: ''
 ---
 
